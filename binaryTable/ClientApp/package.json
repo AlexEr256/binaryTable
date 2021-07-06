@@ -20,6 +20,7 @@
   "devDependencies": {
     "@material-ui/core": "^4.11.4",
     "ajv": "^6.9.1",
+    "axios": "^0.21.1",
     "cross-env": "^5.2.0",
     "eslint": "^6.8.0",
     "eslint-config-react-app": "^5.2.0",
@@ -28,6 +29,10 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.18.3",
     "nan": "^2.14.1",
+    "react-redux": "^7.2.4",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0",
+    "thunk": "0.0.1",
     "typescript": "^3.7.5"
   },
   "eslintConfig": {
